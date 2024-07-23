@@ -5,108 +5,54 @@
 }
 
 
-main{
-    font-family: "sedan sc" ;
-    display: flex;
-    width: 97vw;
-    
-}
+
 
 .left{
     background-color: crimson;
-    width: 25%;
+    width: 25vw;
     max-height: 100%;
+    font-family: "sedan sc";
 
 }
-
  .image-profile {
     width: 100%;
     border-radius: 50%;
-    padding: 15%;
+    padding: 5% 15%;
 }
 
-.left section h2{
-    font-size: 2vw;
+.left section{
+    padding: 0 20% 15%;
 }
 
-.education{
-    margin: 0 24% 0;
-    
+.left h2{
+    font-size: x-large;
 }
 
-
-.followme{
-    margin: 25% 24%;
-    
-    
-}
-.references{
-    margin: 0% 24%;
-}
 .right{ 
-    width: 65%;
-    padding: 5% 0 1% 2.5%;
-}
-
-.right header{
-    width: 100%;
-    display: flex;
-    flex-flow: row wrap;
- 
-
-    
-
-}
-
-.right h1{
-    width: 40%;
-    justify-content: flex-start;  
-    align-content: center;  
+    width: 75vw;
+    padding: 5%;
+    font-family: "sedan sc" ;
+    margin: ;
 }
 
 .right aside{
-    width: 60%;
-
+    padding: 3% 0 0 0;
 
 }
 
 .right span{
-    font-size: 5vw;
-
-    
-}
-.right .location{
-     display: flex;
-    flex-direction: row;
-
-}
-.right .phonenumber{
-    }
-
-.right .email{
-
-}
-    
-.right div{
+    display: flex;
+    align-items: flex-start;
+    padding-right: 2%;
 }
 
-.right .experience{
-}
-
-.experience h2{
-
-}
 .experience section{
-
+    
+    padding-bottom: 5%;
 }
 
-.right .skillz{
-}
 
-.skillz h2{
 
-}
 
-.skillz section{
 
-}
+
